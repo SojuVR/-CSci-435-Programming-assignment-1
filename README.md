@@ -1,4 +1,4 @@
-# -CSci-435-Programming-assignment-1
+# CSci-435-Programming-assignment-1
 This program takes an xml screenshot of an Android app and outputs the same screenshot with yellow boxes around leaf level components. It uses Pillow for image drawing and ElementTree to turn an xml file into a tree.
 
 To run this code, download the content of this repository. Then, in powershell, go to the directory containing the folder CSci-435-Programming-assignment-1. From there, run "python Parser.py". The code will run and update you every time an image is processed. The processed images will be found in the folder Highlighted-Png.
