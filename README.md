@@ -6,3 +6,5 @@ To run this code, download the content of this repository. Then, in powershell, 
 If you want to try new xml and png files, add the xml file and associated png file (make sure they share the same name) to the folder Programming-Assignment-Data. It will be run along with the other files.
 
 If you rerun a file, there is no need to get rid of the previous output png. It will be overwritten with your new attempt.
+
+I chose to use python for this assignment and Pillow along with it because I am most familiar with this coding style, and Pillow I have used previously for png generation.
